@@ -1,2 +1,3 @@
 This is a bit of data about Mars.
-SOmething else about Mars.
+Something else about Mars.
+Some more text now.
